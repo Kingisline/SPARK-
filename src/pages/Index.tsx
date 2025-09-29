@@ -184,8 +184,8 @@ const Index = () => {
     {
       name: "Senthilrajan PR",
       role: "Staff coorinator",
-      // image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1887&auto=format&fit=crop",
-      image: yuvaraj,
+      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1887&auto=format&fit=crop",
+      // image: yuvaraj,
       quote: "The Entrepreneurship Club has been instrumental in helping me develop my business idea. The workshops and mentoring were invaluable.",
       initials: "PR"
     },
