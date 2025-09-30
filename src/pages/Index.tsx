@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 import ScrollingImageColumn from "@/components/ScrollingImageColumn";
 import { useEffect, useRef, useState } from "react";
 import NeonSmokeyCursor from "@/components/NeonSmokeyCursor";
-import yuvaraj from "../../public/yuvaraj.jpg"
+import hod from '../../public/hod.jpg'
 import srini from '../../public/srinivasan.jpg'
 
 
@@ -184,8 +184,8 @@ const Index = () => {
     {
       name: "Senthilrajan PR",
       role: "Staff coorinator",
-      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1",
-      // image: yuvaraj,
+      // image: "",
+      image: hod,
       quote: "The Entrepreneurship Club has been instrumental in helping me develop my business idea. The workshops and mentoring were invaluable.",
       initials: "PR"
     },
